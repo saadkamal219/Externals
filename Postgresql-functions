@@ -24,5 +24,6 @@ GROUP BY                 // used with aggreagate functions
                          2. MAX ()
                          3. MIN ()
                          4. AVG ()
-                        
+    
+    
                         
