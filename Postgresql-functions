@@ -18,12 +18,15 @@ NOT EXISTS()             //to delete a group of entry from the desired output
 
 ORDER BY                 //align in assending or dessending order
 
-GROUP BY                 // used with aggreagate functions
+GROUP BY                 // used with aggregate  functions
 
-                         1. COUNT ()
-                         2. MAX ()
-                         3. MIN ()
-                         4. AVG ()
+                         Aggregate functions:      
+                              
+                                                1. COUNT ()    //counts the number o data
+                                                2. MAX ()      // finds out maximum data in the column
+                                                3. MIN ()      // finds out minimum data in the column
+                                                4. AVG ()      // exwcutes the average value of a column
     
-    
-                        
+BETWEEN()                // fetch a group of data among the range
+
+IN()                     // takes two point, [ strat and end ] and execute the values
