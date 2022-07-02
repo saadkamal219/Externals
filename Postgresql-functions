@@ -1,0 +1,28 @@
+SUBSTRING()              //used to relocate the string char by char
+
+CONCAT()                 //used to add a string to the entry
+
+REPLACE()                //used to replace two or more char from the given string or entry
+
+CAST()                   //used to type cast the entry
+
+LIMIT                    //limit the data
+
+OFFSET                   //skip data
+
+MD5()                    //convert to hexaecimal
+
+CHAR_LENGTH()            //defines the length of the enrty
+
+NOT EXISTS()             //to delete a group of entry from the desired output
+
+ORDER BY                 //align in assending or dessending order
+
+GROUP BY                 // used with aggreagate functions
+
+                         1. COUNT ()
+                         2. MAX ()
+                         3. MIN ()
+                         4. AVG ()
+                        
+                        
